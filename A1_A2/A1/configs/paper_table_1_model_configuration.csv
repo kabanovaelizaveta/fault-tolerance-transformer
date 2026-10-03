@@ -1,0 +1,2 @@
+Dataset,Model,Dimension,Encoder layers,Heads per layer,Total heads,Feed-forward dimension,Dropout,Learning rate,Weight decay
+AG News,Base,256,4,8,32,1024,0.05,0.0003,0.01

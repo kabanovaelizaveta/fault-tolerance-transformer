@@ -1,0 +1,6 @@
+model,pair,x,y,family,theta,loglik,aic,n,at_bound,lambda_L,lambda_U,cvm
+base_transformer_cifar10,W_fail_mean vs D_mean,W_fail_mean,D_mean,clayton,0.47536088613365846,717.657522683282,-1433.315045366564,10000,False,0.2326664541579491,0.0,12.270227792092617
+base_transformer_cifar10,W_fail_mean vs D_mean,W_fail_mean,D_mean,survival_gumbel,1.1811932165979173,534.4685680197841,-1066.9371360395683,10000,False,0.2017401042609146,0.0,12.623167262093181
+base_transformer_cifar10,W_fail_mean vs D_mean,W_fail_mean,D_mean,frank,0.6824500925441701,62.34929935978123,-122.69859871956245,10000,False,0.0,0.0,13.414114102371904
+base_transformer_cifar10,W_fail_mean vs D_mean,W_fail_mean,D_mean,gumbel,1.0010005204357209,-0.5496900125045503,3.0993800250091006,10000,True,0.0,0.0013851496061665358,14.462532598176985
+base_transformer_cifar10,W_fail_mean vs D_mean,W_fail_mean,D_mean,survival_clayton,0.010000555179953926,-13.195971893828673,28.391943787657347,10000,True,0.0,7.919022903024423e-31,14.446886848320972

@@ -1,0 +1,4 @@
+Threshold τ,Widest 95%-safe boundary,Safe probability,Coverage (%)
+0.01,No 95%-safe boundary,0.027,0.0
+0.025,No 95%-safe boundary,0.711,0.0
+0.05,"N_fail<=2, N_crit_fail<=0",0.975,4.86

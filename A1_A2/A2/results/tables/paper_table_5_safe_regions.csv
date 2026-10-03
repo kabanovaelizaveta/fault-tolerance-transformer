@@ -1,0 +1,4 @@
+Model,Threshold,Safe boundary,Max safe probability,Coverage (%)
+Classification CIFAR-10 — Base,0.01,None,0.027,0.0
+Classification CIFAR-10 — Base,0.025,None,0.711,0.0
+Classification CIFAR-10 — Base,0.05,"N_fail<=2, N_crit_fail<=0",0.975,4.86

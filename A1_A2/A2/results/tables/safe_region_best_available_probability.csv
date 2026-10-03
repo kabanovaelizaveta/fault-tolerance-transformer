@@ -1,0 +1,4 @@
+threshold_name,best_safe_probability,best_safe_probability_percent
+tau_0.010,0.02734375,2.734375
+tau_0.025,0.7109375,71.09375
+tau_0.050,1.0,100.0

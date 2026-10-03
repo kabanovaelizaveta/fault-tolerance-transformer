@@ -1,0 +1,4 @@
+Model,Pair,AIC-selected copula,Theta,CvM,AIC,Tail
+Classification AG News — Base,Nfail vs Dmean,Gumbel,12.31,1.07,-41409,U=0.94
+Classification AG News — Base,"Wfail,mean vs Dmean",Clayton,0.4,12.23,-1059,L=0.17
+Classification AG News — Base,Wfail vs Dmean,Gumbel,13.39,0.2,-42705,U=0.95

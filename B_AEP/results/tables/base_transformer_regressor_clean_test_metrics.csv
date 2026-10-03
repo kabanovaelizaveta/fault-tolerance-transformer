@@ -1,0 +1,2 @@
+model,loss,optimizer,best_val_mae,test_loss,test_mse,test_rmse,test_mae,epochs_ran,best_path
+base_transformer_regressor,MSELoss,AdamW,0.010936649516224861,0.00022233435512031133,0.00022143225942272693,0.014880600102910061,0.011114710941910744,28,/content/drive/MyDrive/fault-tolerance-transformer/ExpB/models/base_transformer_regressor_best.pt

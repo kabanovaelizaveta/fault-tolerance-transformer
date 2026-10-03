@@ -1,0 +1,4 @@
+Model,Pair,AIC-selected copula,Theta,CvM,AIC,Tail
+Classification CIFAR-10 — Base,Nfail vs Dmean,Gumbel,9.7,1.22,-36705,U=0.93
+Classification CIFAR-10 — Base,"Wfail,mean vs Dmean",Clayton,0.48,12.27,-1433,L=0.23
+Classification CIFAR-10 — Base,Wfail vs Dmean,Gumbel,11.8,0.36,-40013,U=0.94

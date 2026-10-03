@@ -1,0 +1,16 @@
+model,pair,x,y,copula_label,family_key,rotation,theta,log_likelihood,AIC,lambda_lower,lambda_upper,tail_interpretation,rank_AIC
+base_transformer_regressor,N_fail_vs_delta_mae,N_fail,delta_mae,Clayton_0,Clayton,0,5.673868207604985,8790.308593475671,-17578.617186951342,0.8850024759778758,0.0,lower-tail / safe-region,5.0
+base_transformer_regressor,N_fail_vs_delta_mae,N_fail,delta_mae,Survival_Clayton_180,Clayton,180,5.961364698525247,10671.578824849345,-21341.15764969869,0.0,0.8902319442446253,upper-tail / high-risk,4.0
+base_transformer_regressor,N_fail_vs_delta_mae,N_fail,delta_mae,Gumbel_0,Gumbel,0,5.208420837614692,12303.946036921883,-24605.892073843766,0.0,0.8576563073061549,upper-tail / high-risk,1.0
+base_transformer_regressor,N_fail_vs_delta_mae,N_fail,delta_mae,Survival_Gumbel_180,Gumbel,180,4.7109219348110996,11204.067564429186,-22406.135128858372,0.8414882513886821,0.0,lower-tail / safe-region,3.0
+base_transformer_regressor,N_fail_vs_delta_mae,N_fail,delta_mae,Frank_0,Frank,0,20.62242545554357,12025.00481421106,-24048.00962842212,0.0,0.0,symmetric / no asymptotic tail dependence,2.0
+base_transformer_regressor,W_fail_mean_vs_delta_mae,W_fail_mean,delta_mae,Clayton_0,Clayton,0,0.884704514206207,1639.0202855374719,-3276.0405710749437,0.45681410520481325,0.0,lower-tail / safe-region,1.0
+base_transformer_regressor,W_fail_mean_vs_delta_mae,W_fail_mean,delta_mae,Survival_Clayton_180,Clayton,180,1.8387936726415394e-06,-0.0004978288047584434,2.0009956576095167,0.0,0.0,upper-tail / high-risk,5.0
+base_transformer_regressor,W_fail_mean_vs_delta_mae,W_fail_mean,delta_mae,Gumbel_0,Gumbel,0,1.1222014374443683,91.25623350538262,-180.51246701076525,0.0,0.14540314547827737,upper-tail / high-risk,4.0
+base_transformer_regressor,W_fail_mean_vs_delta_mae,W_fail_mean,delta_mae,Survival_Gumbel_180,Gumbel,180,1.3626265323143214,1255.6095723406643,-2509.2191446813285,0.33689783040648824,0.0,lower-tail / safe-region,2.0
+base_transformer_regressor,W_fail_mean_vs_delta_mae,W_fail_mean,delta_mae,Frank_0,Frank,0,1.9636294115934716,504.2795778605577,-1006.5591557211154,0.0,0.0,symmetric / no asymptotic tail dependence,3.0
+base_transformer_regressor,W_fail_vs_delta_mae,W_fail,delta_mae,Clayton_0,Clayton,0,11.53400175511168,15859.708529267775,-31717.41705853555,0.9416741439522036,0.0,lower-tail / safe-region,4.0
+base_transformer_regressor,W_fail_vs_delta_mae,W_fail,delta_mae,Survival_Clayton_180,Clayton,180,10.507264094611557,14826.076966014094,-29650.153932028188,0.0,0.9361604661079437,upper-tail / high-risk,5.0
+base_transformer_regressor,W_fail_vs_delta_mae,W_fail,delta_mae,Gumbel_0,Gumbel,0,9.129468929050866,17660.739729899156,-35319.47945979831,0.0,0.92111926061205,upper-tail / high-risk,3.0
+base_transformer_regressor,W_fail_vs_delta_mae,W_fail,delta_mae,Survival_Gumbel_180,Gumbel,180,9.45982107595061,18174.62985394105,-36347.2597078821,0.9239760089405915,0.0,lower-tail / safe-region,1.0
+base_transformer_regressor,W_fail_vs_delta_mae,W_fail,delta_mae,Frank_0,Frank,0,34.99998899796273,17899.68033153729,-35797.36066307458,0.0,0.0,symmetric / no asymptotic tail dependence,2.0

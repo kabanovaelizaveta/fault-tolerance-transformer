@@ -1,0 +1,4 @@
+Model,Threshold,Safe boundary,Max safe probability,Coverage (%)
+Classification AG News — Base,0.01,None,0.914,0.0
+Classification AG News — Base,0.025,"N_fail<=4, N_crit_fail<=3",0.975,12.28
+Classification AG News — Base,0.05,"N_fail<=10, N_crit_fail<=2",0.957,29.81

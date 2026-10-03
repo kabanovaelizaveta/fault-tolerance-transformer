@@ -1,0 +1,2 @@
+model,pair,x,y,family,theta,loglik,aic,n,at_bound,lambda_L,lambda_U,cvm,corr_pearson,corr_pearson_p,corr_spearman,corr_spearman_p,corr_kendall,corr_kendall_p,cvm_observed,bootstrap_reps,bootstrap_p,bootstrap_mean_cvm,bootstrap_q95_cvm,reject_at_005
+base_transformer_cifar10,N_fail vs D_mean,N_fail,D_mean,gumbel,9.695177367231823,18353.5665730639,-36705.1331461278,10000,False,0.0,0.9258882751689808,1.2200437228019783,0.9849037869368626,0.0,0.989963338467913,0.0,0.9225813481574332,0.0,1.2200437228019783,500,0.001996007984031936,0.00530731834053393,0.0075647478315208315,True

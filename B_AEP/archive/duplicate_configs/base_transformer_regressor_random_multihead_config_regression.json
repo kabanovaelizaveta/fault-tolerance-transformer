@@ -1,0 +1,19 @@
+{
+  "model": "base_transformer_regressor",
+  "K": 10000,
+  "seed": 1024,
+  "N_fail_distribution": "Uniform(1, M_total_heads)",
+  "M_total_heads": 32,
+  "num_layers": 4,
+  "eval_subset_size": 1000,
+  "task": "regression",
+  "main_degradation_metric": "delta_mae = mae_fault - mae_clean",
+  "sample_error_change_definition": "abs_error_fault - abs_error_clean",
+  "tail_metrics": "computed from sample-level error changes",
+  "clean_metrics_on_eval_subset": {
+    "mse": 0.00022018914751242846,
+    "rmse": 0.014838771765629002,
+    "mae": 0.011135575361549854,
+    "relative_mae_percent": 3.008023977279663
+  }
+}
