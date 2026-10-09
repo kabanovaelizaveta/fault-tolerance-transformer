@@ -33,4 +33,4 @@ Dataset and checkpoint references for A1 and A2 are provided in their `data/READ
 
 This repository currently provides saved research artifacts and shared classification modules. Analysis notebooks are not yet included, and execution paths and environment requirements still need to be configured for this layout.
 
-Alternative CIFAR-10 exports are retained separately for provenance. Experiment B's copula fit and bootstrap outputs require reconciliation before the final manuscript table is established. Organizing these materials does not constitute an independent reproduction of training, inference, or statistical analysis.
+Alternative CIFAR-10 exports are retained separately for provenance. 
