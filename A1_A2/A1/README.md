@@ -38,7 +38,4 @@ Additional tables contain correlations, copula fits, bootstrap outputs, data-spl
 
 Dataset and checkpoint links are provided in [data/README.md](data/README.md) and [checkpoints/README.md](checkpoints/README.md). Shared Python modules are stored once in [../src/faulttol/](../src/faulttol/). The saved vocabulary is retained as `configs/vocab.json`.
 
-The `notebooks/` directory is intentionally empty. No notebook was copied into this package. The saved source code and summaries may refer to the original directory layout; execution paths and environment requirements must be configured before running analyses from this layout.
-
-This package preserves saved artifacts without changing their numerical contents. Organization and file presence have been checked, but training, inference, bootstrap calculations, table-to-figure consistency, and agreement with the manuscript have not been independently revalidated as part of this packaging step. Copula files retain their original grouping; the pending reconciliation identified for Experiment B is not assumed to apply to these experiments.
 
